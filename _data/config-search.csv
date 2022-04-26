@@ -1,7 +1,11 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
 subject,true,true
-location,true,false
+complexity,true,true
+recipe_source,true,true
+recipe_cooktime,true,true
+recipe_storetime,true,true
+num_ingredients,true,true
+food_type,true,true
+servings,true,true
+overnight_prep,true,true
