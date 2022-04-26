@@ -1,0 +1,22 @@
+objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingrediants,food_type,subject,servings,overnight_prep,complexity
+recipe_01,application/pdf,recipe_01.pdf,Playdough,Genevieve's Mom,n/a,n/a,5,Activity,toy,1,no,0
+recipe_02,application/pdf,recipe_02.pdf,Baked Fish,Genevieve's Mom,15 min,0 days,5,Food,entree,2,no,1
+recipe_03,application/pdf,recipe_03.pdf,Enchilada Pie,Genevieve's Grandmother,20 min,1 week,7,Food,entree,6,no,1
+recipe_04,application/pdf,recipe_04.pdf,Sloppy Joe Pie,Genevieve,30 min,1 week,15,Food,entree,4,no,1
+recipe_05,application/pdf,recipe_05.pdf,Baked Ziti,Genevieve,55 min,1 week,13,Food,entree,6,no,1
+recipe_06,application/pdf,recipe_06.pdf,Ka-Quiche,Tom,80 min,4 days,7,Food,entree,4,no,2
+recipe_07,application/pdf,recipe_07.pdf,Chimkin,Tom,45 min,n/a,9,Food,entree,6,yes,3
+recipe_08,application/pdf,recipe_08.pdf,Pumpkin Cake,Tom's Grandmother,60 min,7 days,13,Food,dessert,6,yes,3
+recipe_09,application/pdf,recipe_09.pdf,Latkes,Tom,40 min,3 days,5,Food,entree,4,no,2
+recipe_10,application/pdf,recipe_10.pdf,ClammaJamma,Tom,35 min,3 days,14,Food,soup,4,no,4
+recipe_11,application/pdf,recipe_11.pdf,Brioche,Tom,270 min,7 days,10,Food,bread,4,yes,4
+recipe_12,application/pdf,recipe_12.pdf,Scallywag Pasta,Tom,20 min,0 days,11,Food,side,2,no,2
+recipe_13,application/pdf,recipe_13.pdf,Honey Frosting,Genevieve,10 min,n/a,4,Food,dessert,1,no,1
+recipe_14,application/pdf,recipe_14.pdf,Drop Biscuits,Genevieve,15 min,4 days,5,Food,side,6,no,1
+recipe_15,application/pdf,recipe_15.pdf,Tikka Masala,Katie Crawford,240 min,3 days,13,Food,entree,6,no,1
+recipe_16,application/pdf,recipe_16.pdf,Lemonade,Genevieve,10 min,7 days,3,Food,cold drink,4,no,1
+recipe_17,application/pdf,recipe_17.pdf,Lentil Beef Stew,Genevieve,360 min,7 days,10,Food,soup,6,yes,1
+recipe_18,application/pdf,recipe_18.pdf,Waffles,Genevieve's Dad,30 min,1 day,9,Food,breakfast,6,no,1
+recipe_19,application/pdf,recipe_19.pdf,Tea Sandwiches,Coven,30 min,0 days,6,Food,lunch,6,no,1
+recipe_20,application/pdf,recipe_20.pdf,Chicago Deep Dish Pizza,Tom,165 min,3 days,21,Food,entree,4,no,4
+recipe_21,application/pdf,recipe_21.pdf,Potato Leek Soup,Tom,65 min,3 days,11,Food,soup,6,no,3
