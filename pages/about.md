@@ -8,12 +8,15 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid= bread.jpg %}
+{% include feature/jumbotron.html objectid=cutefood%}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
 
-This collection is a set of recipes, some handwritten and some typed up, that are tasty and well loved.  Each recipe started as a family recipe or an online recipe but then has undergone testing and revisions in the kitchen.  I like to see recipes as a form of oral tradition that eventually gets written down to help share it and gets updated as needed.  
+This is a collection of recipes that started out as recipes from official sources (cook books, online youtube video tutorials, websites, and then were adapted and edited into their current form.  Some of these recipes are from family members.  The focus of this collection are the recipes used the most often in this kitchen.  
 
-Recipes were chosen regardless of complexity or subject.  I grabbed a handful off the magnets pinning them to my cabinets and so we have a cross-section of different food types and more that is loosely representative of the recipes in the kitchen.  
+The physical recipe cards are displayed on the original 1950s kitchen cabinets using magnets so that they can be easily removed and edited as the recipes get refined.  The collection is not comprehensive because of the sheer quantity of recipe cards on these cabinets.  Instead, I have selected a cross-section of recipes that are representative of different categories present. I anticipate that this collection will be added onto over time as the two cooks in this kitchen both love cooking and feeding their friends. This collection is entirely pdf files for ease of uploading multiple sides of recipe cards. 
+
+Some of the recipe cards are hand-written and others are typed up. As more cards get handwritten, the collection will be updated. The goal of the collection is to eventually include all of the recipes that have been tested and determined to be delicious.  
+
