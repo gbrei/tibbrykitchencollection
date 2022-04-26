@@ -1,5 +1,10 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+subject,Subjects	
+recipe_source,Recipe Editor
+recipe_cooktime,Cooktime
+recipe_storetime,Storetime
+food_type,Type
+servings,Servings
+overnight_prep, Overnight Prep Needed
+complexity, Complexity
