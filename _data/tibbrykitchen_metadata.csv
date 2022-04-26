@@ -1,4 +1,4 @@
-objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingrediants,food_type,subject,servings,overnight_prep,complexity
+objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingredients,food_type,subject,servings,overnight_prep,complexity
 recipe_01,application/pdf,recipe_01.pdf,Playdough,Genevieve's Mom,n/a,n/a,5,Activity,toy,1,no,0
 recipe_02,application/pdf,recipe_02.pdf,Baked Fish,Genevieve's Mom,15 min,0 days,5,Food,entree,2,no,1
 recipe_03,application/pdf,recipe_03.pdf,Enchilada Pie,Genevieve's Grandmother,20 min,1 week,7,Food,entree,6,no,1
