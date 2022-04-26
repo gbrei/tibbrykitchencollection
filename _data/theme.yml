@@ -58,7 +58,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingrediants,food_type,subject,servings,overnight_prep,complexity"
+metadata-export-fields: "objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingredients,food_type,subject,servings,overnight_prep,complexity"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "title,subject,complexity,recipe_source"
 
