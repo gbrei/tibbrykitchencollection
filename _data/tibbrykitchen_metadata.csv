@@ -1,9 +1,9 @@
 objectid,format,filename,title,recipe_source,recipe_cooktime,recipe_storetime,num_ingredients,food_type,subject,servings,overnight_prep,complexity
 recipe_01,application/pdf,recipe_01.pdf,Playdough,Genevieve's Mom,n/a,n/a,5,Activity,toy,1,no,0
 recipe_02,application/pdf,recipe_02.pdf,Baked Fish,Genevieve's Mom,15 min,0 days,5,Food,entree,2,no,1
-recipe_03,application/pdf,recipe_03.pdf,Enchilada Pie,Genevieve's Grandmother,20 min,1 week,7,Food,entree,6,no,1
-recipe_04,application/pdf,recipe_04.pdf,Sloppy Joe Pie,Genevieve,30 min,1 week,15,Food,entree,4,no,1
-recipe_05,application/pdf,recipe_05.pdf,Baked Ziti,Genevieve,55 min,1 week,13,Food,entree,6,no,1
+recipe_03,application/pdf,recipe_03.pdf,Enchilada Pie,Genevieve's Grandmother,20 min,7 days,7,Food,entree,6,no,1
+recipe_04,application/pdf,recipe_04.pdf,Sloppy Joe Pie,Genevieve,30 min,7 days,15,Food,entree,4,no,1
+recipe_05,application/pdf,recipe_05.pdf,Baked Ziti,Genevieve,55 min,7 days,13,Food,entree,6,no,1
 recipe_06,application/pdf,recipe_06.pdf,Ka-Quiche,Tom,80 min,4 days,7,Food,entree,4,no,2
 recipe_07,application/pdf,recipe_07.pdf,Chimkin,Tom,45 min,n/a,9,Food,entree,6,yes,3
 recipe_08,application/pdf,recipe_08.pdf,Pumpkin Cake,Tom's Grandmother,60 min,7 days,13,Food,dessert,6,yes,3
