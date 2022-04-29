@@ -14,7 +14,7 @@ recipe_12,application/pdf,recipe_12.pdf,Scallywag Pasta,Tom,20 min,0 days,11,Foo
 recipe_13,application/pdf,recipe_13.pdf,Honey Frosting,Genevieve,10 min,n/a,4,Food,dessert,1,no,1
 recipe_14,application/pdf,recipe_14.pdf,Drop Biscuits,Genevieve,15 min,4 days,5,Food,side,6,no,1
 recipe_15,application/pdf,recipe_15.pdf,Tikka Masala,Katie Crawford,240 min,3 days,13,Food,entree,6,no,1
-recipe_16,application/pdf,recipe_16.pdf,Lemonade,Genevieve,10 min,7 days,3,Food,cold drink,4,no,1
+recipe_16,application/pdf,recipe_16.pdf,Lemonade,Genevieve,10 min,7 days,3,Beverage,cold drink,4,no,1
 recipe_17,application/pdf,recipe_17.pdf,Lentil Beef Stew,Genevieve,360 min,7 days,10,Food,soup,6,yes,1
 recipe_18,application/pdf,recipe_18.pdf,Waffles,Genevieve's Dad,30 min,1 day,9,Food,breakfast,6,no,1
 recipe_19,application/pdf,recipe_19.pdf,Tea Sandwiches,Coven,30 min,0 days,6,Food,lunch,6,no,1
